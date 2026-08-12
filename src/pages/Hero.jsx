@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react'
 import { NavLink } from 'react-router';
+import Resume from "../pages/Resume"
 import gsap from 'gsap';
 const Hero = () => {
   useEffect(() => {
