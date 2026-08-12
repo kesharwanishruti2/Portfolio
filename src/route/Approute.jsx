@@ -6,7 +6,7 @@ import About from "../pages/About";
 import Contact from "../pages/Contact";
 import Skills from "../pages/Skills";
 import Projects from "../pages/Projects";
-import Resume from "../pages/resume";
+import Resume from "../pages/Resume";
 import Loader from "../Componenet/Loader";
 
 const router = createBrowserRouter([
